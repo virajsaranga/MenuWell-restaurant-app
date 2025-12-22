@@ -1,5 +1,4 @@
 import Link from "next/link";
-
 export default function Header() {
   return (
     <header className="w-full bg-gray-900 shadow sticky top-0 z-50">
